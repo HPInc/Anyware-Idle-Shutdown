@@ -3,6 +3,8 @@
 [HP Anyware](https://www.hp.com/us-en/solutions/digital-workspaces.html)
 HP Anyware is the enterprise software IT needs to keep people productive with secured access to their digital workspaces without a VPN.
 
+Built on the same technology that won both Teradici and HP Engineering Emmys, the flexible deployment options future proof IT against ever-evolving infrastructure, network, and hybrid workforce needs.
+
 ## What is Anyware Manager? ##
 Anyware Manager is a HP management plane enabling users to configure, manage and monitor brokering of remote workstations. Anyware Manager enables highly-scalable and cost-effective Anyware Software deployments by managing cloud compute costs by brokering PCoIP connections to remote workstations, see [Anyware Software](https://docs.teradici.com/find/product/cloud-access-software) for supported hosts.
 
